@@ -6,17 +6,24 @@ Github URL-https://syedikram03.github.io/Therapy.com-FRT/
 Home page with Carousel
 ![image](https://user-images.githubusercontent.com/111906413/204613827-5934f303-52b5-4276-b0e9-ba2ae2f0d720.png)
 
-![image](https://user-images.githubusercontent.com/111906413/204613614-8a1e84b1-db71-4676-9ec2-589ebfa9a47e.png)
+![image](https://user-images.githubusercontent.com/111906413/204614928-d2f526f1-6e8b-4d79-9292-c394dd183bcb.png)
+
 About Page
+
 ![image](https://user-images.githubusercontent.com/111906413/204614112-216253ca-d0ee-4b91-8cb0-1345f01cd3a9.png)
 Services page
+
 ![image](https://user-images.githubusercontent.com/111906413/204614208-c7b92c51-ed1b-4274-91bf-1a941973c68a.png)
 Our Doctors
+
 ![image](https://user-images.githubusercontent.com/111906413/204614338-1aa30142-e872-40c3-acd1-1921b5ade4c3.png)
 Contact us
+
 ![image](https://user-images.githubusercontent.com/111906413/204614471-b60b95ba-28ee-4307-b2d3-471e92fbfcb9.png)
 Testimonial
+
 ![image](https://user-images.githubusercontent.com/111906413/204614600-439c43da-73c3-49d6-94dc-1f3c4600281b.png)
 Footer
+
 ![image](https://user-images.githubusercontent.com/111906413/204614686-c70bad13-2f3a-4ac5-a65d-537a8fe71859.png)
 
