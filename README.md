@@ -5,6 +5,9 @@
 
 I developed this is a website as a part of Microsoft Future Ready Talent.In this project I have choosen the Health Care Industry. Even in today's world, people have to search a lot for experienced & qualified therapists near them,more over they are not verified.I came up with the solution to give people access to verified, experienced, & qualified therapists in the safety and comfort of their home.My platform will connect therapists and people.Planform can provide various therapy services such as cupping therapy, chiropractor, acupuncture services, etc.
 
+Github URL-https://syedikram03.github.io/Therapy.com-FRT/
+
+EXPLANATORY VIDEO OF AZURE TECHNOLOGIES https://drive.google.com/file/d/1vJtrIxGQ_JryX3Kujy6CmUmamKI5n0fd/view?usp=sharing
 
 1)Create a storage account from your Azure portal.(Make sure You have a resource group)
 ![image](https://user-images.githubusercontent.com/111906413/208689790-62883847-e0be-4d26-bffb-3e3ad95d0d08.png)
@@ -12,11 +15,6 @@ I developed this is a website as a part of Microsoft Future Ready Talent.In this
 ![image](https://user-images.githubusercontent.com/111906413/208691830-83b12c5c-59b8-4b6a-8010-e5904d6d4b57.png)
 3)Create a Static web app and you are ready to host your website.Azure provides a lot of insightful tools.
 ![image](https://user-images.githubusercontent.com/111906413/208692942-ccbca1b0-3fea-4ac4-90cc-7cf41d438fd3.png)
-
-
-Github URL-https://syedikram03.github.io/Therapy.com-FRT/
-
-EXPLANATORY VIDEO OF AZURE TECHNOLOGIES https://drive.google.com/file/d/1vJtrIxGQ_JryX3Kujy6CmUmamKI5n0fd/view?usp=sharing
 
 
 Tech Stack-
