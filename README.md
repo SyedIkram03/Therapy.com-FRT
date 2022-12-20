@@ -4,9 +4,16 @@
 #Secondary link(endpoint) https://therapydotcom-secondary.z13.web.core.windows.net/
 
 I developed this is a website as a part of Microsoft Future Ready Talent.In this project I have choosen the Health Care Industry. Even in today's world, people have to search a lot for experienced & qualified therapists near them,more over they are not verified.I came up with the solution to give people access to verified, experienced, & qualified therapists in the safety and comfort of their home.My platform will connect therapists and people.Planform can provide various therapy services such as cupping therapy, chiropractor, acupuncture services, etc.
-My core idea is to solve a problem.The problem statement is, to connect service providers(therapists) and customers in the health care industry. My platform will provide therapy services in the safety and comfort of the customer's house. My platform will connect verified,experienced and qualified therapists with the people who need them at their door. The platform will host service providers in different domains such as cupping therapy, chiropractor services, acupuncture,and many more.The platform will have different service packages to fulfil the needs of the customer. In the market there is a need for a platform for therapy services, and I think my platform can fulfil that need. In this way I think My project will make a difference in the Healthcare Industry and will fulfill the need of the customers and service providers.
+1)Create a storage account from your Azure portal.(Make sure You have a resource group)
+![image](https://user-images.githubusercontent.com/111906413/208689790-62883847-e0be-4d26-bffb-3e3ad95d0d08.png)
+2)Upload all your files(source code) in ($web) Container.
+![image](https://user-images.githubusercontent.com/111906413/208691830-83b12c5c-59b8-4b6a-8010-e5904d6d4b57.png)
+3)Create a Static web app and you are ready to host your website.Azure provides a lot of insightful tools.
+![image](https://user-images.githubusercontent.com/111906413/208692942-ccbca1b0-3fea-4ac4-90cc-7cf41d438fd3.png)
+
+
 Github URL-https://syedikram03.github.io/Therapy.com-FRT/
-Explanatory Video https://drive.google.com/file/d/1vJtrIxGQ_JryX3Kujy6CmUmamKI5n0fd/view?usp=sharing
+EXPLANATORY VIDEO OF AZURE TECHNOLOGIES https://drive.google.com/file/d/1vJtrIxGQ_JryX3Kujy6CmUmamKI5n0fd/view?usp=sharing
 Tech Stack-
 ![image](https://user-images.githubusercontent.com/111906413/208255703-0b2d418c-2f30-4de5-9b69-a55acfc172f0.png)
 
