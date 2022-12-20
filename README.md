@@ -4,6 +4,8 @@
 #Secondary link(endpoint) https://therapydotcom-secondary.z13.web.core.windows.net/
 
 I developed this is a website as a part of Microsoft Future Ready Talent.In this project I have choosen the Health Care Industry. Even in today's world, people have to search a lot for experienced & qualified therapists near them,more over they are not verified.I came up with the solution to give people access to verified, experienced, & qualified therapists in the safety and comfort of their home.My platform will connect therapists and people.Planform can provide various therapy services such as cupping therapy, chiropractor, acupuncture services, etc.
+
+
 1)Create a storage account from your Azure portal.(Make sure You have a resource group)
 ![image](https://user-images.githubusercontent.com/111906413/208689790-62883847-e0be-4d26-bffb-3e3ad95d0d08.png)
 2)Upload all your files(source code) in ($web) Container.
@@ -13,14 +15,16 @@ I developed this is a website as a part of Microsoft Future Ready Talent.In this
 
 
 Github URL-https://syedikram03.github.io/Therapy.com-FRT/
+
 EXPLANATORY VIDEO OF AZURE TECHNOLOGIES https://drive.google.com/file/d/1vJtrIxGQ_JryX3Kujy6CmUmamKI5n0fd/view?usp=sharing
+
+
 Tech Stack-
 ![image](https://user-images.githubusercontent.com/111906413/208255703-0b2d418c-2f30-4de5-9b69-a55acfc172f0.png)
 
 Home page with Carousel
 ![image](https://user-images.githubusercontent.com/111906413/204613827-5934f303-52b5-4276-b0e9-ba2ae2f0d720.png)
 
-![image](https://user-images.githubusercontent.com/111906413/204614928-d2f526f1-6e8b-4d79-9292-c394dd183bcb.png)
 
 About Page
 
